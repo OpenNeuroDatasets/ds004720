@@ -1,20 +1,20 @@
 {
-    "Acknowledgments":"Thanks to everyone for all your help",
-    "HowToAcknowledge":"Please cite: Author AB, Seminal Paper Title, High Impact Journal, 2019",
-    "ReferencesAndLinks":[
+    "Acknowledgments": "Thanks to everyone for all your help",
+    "HowToAcknowledge": "Please cite: Author AB, Seminal Paper Title, High Impact Journal, 2019",
+    "ReferencesAndLinks": [
         "A Reference",
         "Another Reference",
         "A Link"
     ],
-    "License":"This data is made available under the Creative Commons BY-SA 4.0 International License.",
-    "DatasetDOI":"10.0.1.2/abcd.10",
-    "Funding":[
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004720.v1.0.0",
+    "Funding": [
         "First Grant",
         "Second Grant"
     ],
-    "Name":"Descriptive name for this dataset",
-    "BIDSVersion":"1.2",
-    "Authors":[
+    "Name": "Descriptive name for this dataset",
+    "BIDSVersion": "1.2",
+    "Authors": [
         "First Author",
         "Second Author"
     ]
